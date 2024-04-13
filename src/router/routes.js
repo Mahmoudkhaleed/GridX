@@ -16,7 +16,7 @@ const routes = [
       {
         path: "works",
         name: "works",
-        component: () => import("pages/Workspage.vue"),
+        component: () => import("pages/WorksPage.vue"),
       },
       {
         path: "contact",
